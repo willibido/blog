@@ -5,8 +5,8 @@ define('LOCALPATH', 'http://127.0.0.1/PHP/11_BLOG/');
 $db_config = array(
     'db_name'       =>      'blog_practica',
     'db_table'      =>      'articulos',
-    'adminuser'     =>      'willicoder',
-    'adminpass'     =>      'ZApKer@m83',
+    'adminuser'     =>      'user',
+    'adminpass'     =>      'password',
 );
 
 $blog_config = array(
